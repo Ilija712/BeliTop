@@ -1,0 +1,34 @@
+.clippy1{
+    clip-path: polygon(0 0, 100% 0, 100% 39%, 0 100%);
+}
+.poz{
+    top: 25%;
+}
+.razmak{
+    letter-spacing: 8px;
+}
+.xd{
+    height: 100%;
+}
+.z-index-1{
+    z-index: 99999;
+}
+.z-index-2{
+    z-index: 9999;
+}
+
+
+@media only screen and (max-width: 768px){
+    .clippyno{
+        clip-path: none !important;
+    }
+    .poz{
+        top: 15%;
+    }
+
+}
+@media only screen and (max-width: 576px){
+    .poz{
+        top: 10%;
+    }
+}
