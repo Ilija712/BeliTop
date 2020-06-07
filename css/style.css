@@ -19,6 +19,75 @@
 .velicina-fonta{
     font-size: 50px;
 }
+.flex-justify-between{
+    justify-content: space-between;
+}
+.huver-no{
+    background-color: rgba(0, 0, 0, 0)!important;
+}
+.huver:hover{
+    color: rgba(0, 0, 0, .7)!important;
+}
+.aktiv{
+    color: rgba(0, 0, 0, .9)!important;
+}
+.bordura{
+    border-bottom: 1px solid #343A40;
+}
+.text-uppercase {
+    text-transform: uppercase !important;
+  }
+/* h classes from bootstrap */
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+  }
+  h1, h2, h3, h4, h5, h6,
+  .h1, .h2, .h3, .h4, .h5, .h6 {
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+  }
+  h1, .h1 {
+    font-size: 2.5rem;
+  }
+  
+  h2, .h2 {
+    font-size: 2rem;
+  }
+  
+  h3, .h3 {
+    font-size: 1.75rem;
+  }
+  
+  h4, .h4 {
+    font-size: 1.5rem;
+  }
+  
+  h5, .h5 {
+    font-size: 1.25rem;
+  }
+  
+  h6, .h6 {
+    font-size: 1rem;
+  }
+/* h classes from bootstrap */
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+.font-weight-bold {
+    font-weight: 700 !important;
+}
+.yt{
+    padding: 0px 5%;
+}
+.copyright{
+    padding: 1% 0;
+}
 @media (max-width: 575.98px){
     .poz{
         top: 15%;
