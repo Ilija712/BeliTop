@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://ilija712.github.io/BeliTop</loc>
+		<loc>https://ilija712.github.io/BeliTop/index.html</loc>
 		<lastmod>2020-06-17</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.9</priority>
+	</url>
+    <url>
+		<loc>https://ilija712.github.io/BeliTop/informacije.html</loc>
+		<lastmod>2020-06-17</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.7</priority>
+	</url>
+    <url>
+		<loc>https://ilija712.github.io/BeliTop/kontakt.html</loc>
+		<lastmod>2020-06-17</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.7</priority>
+	</url>
+    <url>
+		<loc>https://ilija712.github.io/BeliTop/autor.html</loc>
+		<lastmod>2020-06-17</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
 	</url>
 </urlset>
